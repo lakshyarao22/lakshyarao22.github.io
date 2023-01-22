@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: default
 title: Hello
 subtitle: My name is Lakshya
 sitemap:
