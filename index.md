@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Hello
 subtitle: My name is Lakshya
 sitemap:
