@@ -12,7 +12,20 @@ subtitle: An awesome person
 
 ![](https://skillicons.dev/icons?i=flutter,dart,c,py,js,html,css,bash,md,cpp,sqlite)
 
+#### Tools I Use
+
+![](https://skillicons.dev/icons?i=git,figma,linux,aws,gcp,raspberrypi,ps,svg,vscode,xd)
+
 ### PROJECTS
+**Home Automation** - Description - Place <span style="float: right; ">1 week</span>  
+Used ESP32 as the brains of the project and used MQTT to connect it with Alexa and Google Assistant.
+
+**24/7 Youtube Bot** - Description - Place <span style="float: right; ">2 weeks</span>  
+Used AWS to host a Ubuntu instance and used Bash And python to Automate ffmpeg and sqlite to Stream a 24/7 live music Radio.
+
+**Boozdo** - Description - Place <span style="float: right; ">3 months</span>  
+A liquor ordering application built on Flutter and node.js.
+
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
