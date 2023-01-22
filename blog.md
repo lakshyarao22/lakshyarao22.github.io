@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Pudhina
+subtitle: Exploring the uncharted territories of the mind
 ---
 
 <div>

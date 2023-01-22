@@ -8,7 +8,9 @@ subtitle: An awesome person
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+#### LANGUAGES I CODE IN
+
+![](https://skillicons.dev/icons?i=flutter,dart,c,py,js,html,css,bash,md,cpp,sqlite)
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
