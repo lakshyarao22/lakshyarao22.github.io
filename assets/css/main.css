@@ -42,7 +42,7 @@
       font-weight: 400; }
 
   strong {
-    color: #00FFFF; }
+    color: #717ac5; }
 
   .wrapper {
     max-width: 800px;
@@ -61,7 +61,8 @@
     /* color: #00FFFF; */
     display: block; 
     /* font-size: 72px; */
-    background: -webkit-linear-gradient(#eee, #333);
+    background: -webkit-linear-gradient(to right, #84ffc9, #aab2ff, #eca0ff);
+    background-clip:text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
