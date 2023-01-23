@@ -48,16 +48,6 @@
     max-width: 800px;
     margin: 60px auto; }
 
-  .SkillColumn {
-      float: left;
-      width: 33.33%;
-      padding: 5px; }
-
-  .SkillRow::after {
-  content: "";
-  clear: both;
-  display: table; }
-
 /* =Header *//*************************************************************/
   .header {
     overflow: hidden; }
