@@ -42,7 +42,7 @@
       font-weight: 400; }
 
   strong {
-    color: 00FFFF; }
+    color: #00FFFF; }
 
   .wrapper {
     max-width: 800px;
@@ -58,8 +58,13 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: 00FFFF;
-    display: block; }
+    /* color: #00FFFF; */
+    display: block; 
+    /* font-size: 72px; */
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
 
   .menu {
     color: #828282;
