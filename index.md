@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Lakshya
+subtitle: I am Lakshya
 sitemap:
   priority: 0.9
 ---
