@@ -11,6 +11,8 @@ subtitle: Hacker/Tinkerer
 
 #### LANGUAGES I CODE IN
 
+<p><img src="https://skillicons.dev/icons?i=flutter">Flutter</p>
+
 ![](https://skillicons.dev/icons?i=flutter,dart,androidstudio,c,py,js,html,css,bash,md,cpp,rust,lua,kotlin,arduino,sqlite,mysql&perline=5)
 
 #### DEVELOPMENT TOOLS
