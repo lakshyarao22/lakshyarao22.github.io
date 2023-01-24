@@ -13,15 +13,15 @@ subtitle: Hacker/Tinkerer
 
 <div class="icon-row">
   <div class="icon">
-    <img class="icon-image" src="https://skillicons.dev/icons?i=flutter">
+    <img src="https://skillicons.dev/icons?i=flutter" class="icon-image" >
     <p>Flutter</p>
   </div>
   <div class="icon">
-    <img class="icon-image" src="https://skillicons.dev/icons?i=dart">
+    <img src="https://skillicons.dev/icons?i=dart" class="icon-image" >
     <p>Dart</p>
   </div>
   <div class="icon">
-    <img class="icon-image" src="https://skillicons.dev/icons?i=c">
+    <img src="https://skillicons.dev/icons?i=c" class="icon-image" >
     <p>C</p>
   </div>
 </div>
