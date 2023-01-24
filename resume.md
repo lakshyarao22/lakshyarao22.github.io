@@ -9,45 +9,17 @@ subtitle: An awesome person
 
 ### SKILLS
 
-#### OS
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
-
-#### Frameworks
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<!-- FrameWork: Flutter, IoT, Android, iOS, Networking, 
-Cyber Security.
-
-
-Designing: Figma, Photoshop, Inkscape, Illustrator, Gimp.
-
-
-Tools: Git, Github, Neovim, VS Code.
-
-
-Hardware: Raspberry Pi, Arduino, ESP32.
-
-
-Programming Languages: Dart, Python, HTML, CSS, Javascript, Embedded C, Bash, C, C++.
-
-
-Cyber Security: RSA Siem, ArcSight Siem, Tenable. -->
 #### LANGUAGES I CODE IN
 
-![](https://skillicons.dev/icons?i=flutter,dart,c,py,js,html,css,bash,md,cpp,sqlite)
+![](https://skillicons.dev/icons?i=flutter,dart,androidstudio,c,py,js,html,css,bash,md,cpp,rust,lua,kotlin,arduino,sqlite,mysql)
 
-#### Tools I Use
+#### DEVELOPMENT TOOLS
 
-![](https://skillicons.dev/icons?i=git,figma,linux,aws,gcp,raspberrypi,ps,svg,vscode,xd)
+![](https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,vim,vscode)
+
+#### DESIGNING TOOLS
+
+![](https://skillicons.dev/icons?i=figma,ps,pr,ai,blender,svg,xd)
 
 ### PROJECTS
 
@@ -86,10 +58,16 @@ Just Basic schooling. Not more or less. 😃
 ### EXPERIENCE
 
 Security Engineer - **Sify Technologies** <span style="float: right; ">07/2021-Present</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+_Responsible for Threat Analysis, Log Investigation and Vulnerability Assisment._
+<strong>Technologies used</strong>
 
- 
++ RSA Netwitness SIEM
++ ArcSight SIEM
++ Cisco NBAD
++ Radware WAF
++ Tenable Nessus
++ ZScaler Deception
+
 Title - **Comapany** <span style="float: right; ">Duration</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
@@ -97,7 +75,6 @@ Technologies used
 Title - **Comapany** <span style="float: right; ">Duration</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
-
 
 ### RECOGNITION & INTERESTS
 
