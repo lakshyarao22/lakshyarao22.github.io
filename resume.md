@@ -4,7 +4,7 @@ title: Résumé
 subtitle: 🎨 Designer | 💻 Developer | 🔒 Cyber Security
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/Resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### SKILLS
@@ -68,7 +68,7 @@ _Responsible for Threat Analysis, Log Investigation and Vulnerability Assisment.
 + Radware WAF
 + Tenable Nessus
 + ZScaler Deception
-+ Linux
++ Kali Linux
 
 Junior Developer - **Virtual Analytics** <span style="float: right; ">10/2020-10/2021</span>  
 _Responsible for IoT Development, Flutter Development and UX/UI Designing_
