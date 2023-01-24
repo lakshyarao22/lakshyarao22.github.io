@@ -19,7 +19,7 @@ subtitle: Hacker/Tinkerer
 
 #### DESIGNING TOOLS
 
-![](https://skillicons.dev/icons?i=figma,ps,pr,ai,blender,svg,xd&perline=5)
+![](https://skillicons.dev/icons?i=figma,materialui,ps,pr,ai,blender,svg,xd&perline=5)
 
 ### PROJECTS
 
