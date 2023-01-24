@@ -24,21 +24,180 @@ subtitle: Hacker/Tinkerer
     <img src="https://skillicons.dev/icons?i=c" class="icon-image" >
     <p>C</p>
   </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=py" class="icon-image" >
+    <p>Python</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=bash" class="icon-image" >
+    <p>Bash</p>
+  </div>
 </div>
 
-<p><img src="https://skillicons.dev/icons?i=flutter">Flutter</p>
-<p><img src="https://skillicons.dev/icons?i=flutter">Flutter</p>
-<p><img src="https://skillicons.dev/icons?i=flutter">Flutter</p>
+<div class="icon-row">
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=html" class="icon-image" >
+    <p>HTML</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=css" class="icon-image" >
+    <p>CSS</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=js" class="icon-image" >
+    <p>JavaScript</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=py" class="icon-image" >
+    <p>Python</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=bash" class="icon-image" >
+    <p>Bash</p>
+  </div>
+</div>
 
-![](https://skillicons.dev/icons?i=flutter,dart,androidstudio,c,py,js,html,css,bash,md,cpp,rust,lua,kotlin,arduino,sqlite,mysql&perline=5)
+<div class="icon-row">
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=md" class="icon-image" >
+    <p>MarkDown</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=cpp" class="icon-image" >
+    <p>C++</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=rust" class="icon-image" >
+    <p>Rust</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=lua" class="icon-image" >
+    <p>Lua</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=kotlin" class="icon-image" >
+    <p>Kotlin</p>
+  </div>
+</div>
+
+<div class="icon-row">
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=arduino" class="icon-image" >
+    <p>Arduino</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=sqlite" class="icon-image" >
+    <p>SQLite</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=mysql" class="icon-image" >
+    <p>MySql</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=nodejs" class="icon-image" >
+    <p>Node.JS</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=regex" class="icon-image" >
+    <p>Regex</p>
+  </div>
+</div>
 
 #### DEVELOPMENT TOOLS
 
-![](https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,vim,vscode&perline=5)
+<div class="icon-row">
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=git" class="icon-image" >
+    <p>Git</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=linux" class="icon-image" >
+    <p>Linux</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=bsd" class="icon-image" >
+    <p>BSD</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=aws" class="icon-image" >
+    <p>AWS</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=gcp" class="icon-image" >
+    <p>Google Cloud</p>
+  </div>
+</div>
+
+<div class="icon-row">
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" class="icon-image" >
+    <p>Raspberry Pi</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=nginx" class="icon-image" >
+    <p>Nginx</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=neovim" class="icon-image" >
+    <p>Neovim</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=androidstudio" class="icon-image" >
+    <p>Android Studio</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=vscode" class="icon-image" >
+    <p>VSCode</p>
+  </div>
+</div>
 
 #### DESIGNING TOOLS
 
-![](https://skillicons.dev/icons?i=figma,materialui,ps,pr,ai,blender,svg,xd&perline=5)
+<div class="icon-row">
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=figma" class="icon-image" >
+    <p>Figma</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=materialui" class="icon-image" >
+    <p>MaterialUI</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=ps" class="icon-image" >
+    <p>PhotoShop</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=pr" class="icon-image" >
+    <p>Premiere pro</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=ai" class="icon-image" >
+    <p>Illustrator</p>
+  </div>
+</div>
+
+<div class="icon-row">
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=blender" class="icon-image" >
+    <p>Blender</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=svg" class="icon-image" >
+    <p>SVG</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=unreal" class="icon-image" >
+    <p>Unreal</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=xd" class="icon-image" >
+    <p>XD</p>
+  </div>
+  <div class="icon">
+    <img src="https://skillicons.dev/icons?i=ae" class="icon-image" >
+    <p>After Effects</p>
+  </div>
+</div>
 
 ### PROJECTS
 
