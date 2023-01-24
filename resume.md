@@ -4,7 +4,7 @@ title: Résumé
 subtitle: Hacker/Tinkerer
 ---
 
-<img src="{{ '/assets/img/peace.webp' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/laptop.webp' | prepend: site.baseurl }}" id="about-img">
 
 <span style="float: right; "><a href="{{ '/assets/Resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>

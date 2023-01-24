@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/laptop.webp' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/peace.webp' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 
