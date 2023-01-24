@@ -11,6 +11,23 @@ subtitle: Hacker/Tinkerer
 
 #### LANGUAGES I CODE IN
 
+<div class="icon-row">
+  <div class="icon">
+    <img class="icon-image" src="https://skillicons.dev/icons?i=flutter">
+    <p>Flutter</p>
+  </div>
+  <div class="icon">
+    <img class="icon-image" src="https://skillicons.dev/icons?i=dart">
+    <p>Dart</p>
+  </div>
+  <div class="icon">
+    <img class="icon-image" src="https://skillicons.dev/icons?i=c">
+    <p>C</p>
+  </div>
+</div>
+
+<p><img src="https://skillicons.dev/icons?i=flutter">Flutter</p>
+<p><img src="https://skillicons.dev/icons?i=flutter">Flutter</p>
 <p><img src="https://skillicons.dev/icons?i=flutter">Flutter</p>
 
 ![](https://skillicons.dev/icons?i=flutter,dart,androidstudio,c,py,js,html,css,bash,md,cpp,rust,lua,kotlin,arduino,sqlite,mysql&perline=5)
