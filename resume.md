@@ -57,8 +57,9 @@ Just Basic schooling. Not more or less. 😃
 
 ### EXPERIENCE
 
-Security Engineer - **Sify Technologies** <span style="float: right; ">07/2021-Present</span>  
+Security Engineer - **Sify Technologies** <span style="float: right; ">07/2022-Present</span>  
 _Responsible for Threat Analysis, Log Investigation and Vulnerability Assisment._
+
 <strong>Technologies used</strong>
 
 + RSA Netwitness SIEM
@@ -67,20 +68,27 @@ _Responsible for Threat Analysis, Log Investigation and Vulnerability Assisment.
 + Radware WAF
 + Tenable Nessus
 + ZScaler Deception
++ Linux
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Junior Developer - **Virtual Analytics** <span style="float: right; ">10/2020-10/2021</span>  
+_Responsible for IoT Development, Flutter Development and UX/UI Designing_
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+<strong>Technologies used</strong>
+
++ ESP32
++ Arduino IDE
++ Python
++ OpenCV
++ Flutter
++ Node.js
++ Linux
++ AWS
++ Raspberry Pi
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- Cyber Security
+- Penetration Testing
+- Development.
+- Designing
+- Technology
