@@ -11,15 +11,15 @@ subtitle: An awesome person
 
 #### LANGUAGES I CODE IN
 
-![](https://skillicons.dev/icons?i=flutter,dart,androidstudio,c,py,js,html,css,bash,md,cpp,rust,lua,kotlin,arduino,sqlite,mysql)
+![](https://skillicons.dev/icons?i=flutter,dart,androidstudio,c,py,js,html,css,bash,md,cpp,rust,lua,kotlin,arduino,sqlite,mysql&perline=5)
 
 #### DEVELOPMENT TOOLS
 
-![](https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,vim,vscode)
+![](https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,vim,vscode&perline=5)
 
 #### DESIGNING TOOLS
 
-![](https://skillicons.dev/icons?i=figma,ps,pr,ai,blender,svg,xd)
+![](https://skillicons.dev/icons?i=figma,ps,pr,ai,blender,svg,xd&perline=5)
 
 ### PROJECTS
 
