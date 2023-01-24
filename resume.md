@@ -13,7 +13,6 @@ subtitle: Hacker/Tinkerer
 
 ![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
 
-
 #### DEVELOPMENT TOOLS
 
 ![](https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,androidstudio,vscode&perline=5)
