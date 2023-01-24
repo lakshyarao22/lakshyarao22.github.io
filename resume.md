@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: 🎨 Designer | 💻 Developer | 🔒 Cyber Security
+subtitle: Hacker/Tinkerer
 ---
 
 <span style="float: right; "><a href="{{ '/assets/Resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
