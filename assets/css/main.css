@@ -6,6 +6,11 @@
     color: #012;
     background-color: #FFF; }
 
+  .dark-mode {
+  background-color: #012;
+  color: white;
+  }
+
   a {
     color: #57A;
     font-weight: bold;

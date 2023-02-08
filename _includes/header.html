@@ -23,8 +23,14 @@
 <i class="fa fa-linkedin"></i>
 </a>
 {% endif %}
-<a href="" class="" target="_blank">
-<i class="fa fa-sun"></i>
+<button onclick="myFunction()">Toggle dark mode</button>
 </a>
 </ul>
 </header>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
