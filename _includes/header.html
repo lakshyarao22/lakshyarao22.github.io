@@ -23,7 +23,11 @@
 <i class="fa fa-linkedin"></i>
 </a>
 {% endif %}
-<i class="fa fa-moon" onclick="myFunction()"></i>
+{% if site.author.dark %}
+<a onclick="myFunction()" class="social-links__entry" target="_blank">
+<i class="fa fa-moon"></i>
+</a>
+{% endif %}
 </a>
 </ul>
 </header>
