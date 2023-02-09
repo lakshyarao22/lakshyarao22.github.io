@@ -4,7 +4,7 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
+    background-color: #F0F7EE; }
 
   .dark-mode {
   background-color: #012;
@@ -12,7 +12,7 @@
   }
 
   a {
-    color: #57A;
+    color: #465775;
     font-weight: bold;
     text-decoration: none; }
 
@@ -47,7 +47,7 @@
       font-weight: 400; }
 
   strong {
-    color: #717ac5; }
+    color: #709176; }
 
   .wrapper {
     max-width: 800px;
@@ -66,7 +66,7 @@
     /* color: #00FFFF; */
     display: block; 
     /* font-size: 72px; */
-    background: linear-gradient(to right, #84ffc9, #aab2ff, #eca0ff);
+    background: linear-gradient(to right, #F7B9B8, #9BA7B2, #738EBD);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px #333333;

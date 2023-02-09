@@ -13,15 +13,15 @@ subtitle: Hacker/Tinkerer
 
 #### LANGUAGES I CODE IN
 
-![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5&theme=light)
+![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
 
 #### DEVELOPMENT TOOLS
 
-![](https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,androidstudio,vscode&perline=5&theme=light)
+![](https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,androidstudio,vscode&perline=5)
 
 #### DESIGNING TOOLS
 
-![](https://skillicons.dev/icons?i=figma,materialui,ps,pr,ai,xd,ae,unreal,blender,svg&perline=5&theme=light)
+![](https://skillicons.dev/icons?i=figma,materialui,ps,pr,ai,xd,ae,unreal,blender,svg&perline=5)
 
 ### PROJECTS
 
