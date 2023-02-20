@@ -61,7 +61,7 @@
     /* color: #00FFFF; */
     display: block; 
     /* font-size: 72px; */
-    background: linear-gradient(to right, #73daca, #7dcfff, #7aa2f7);
+    background: linear-gradient(to right, #f7768e, #7dcfff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px #565f89;
