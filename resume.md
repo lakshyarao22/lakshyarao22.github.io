@@ -12,10 +12,17 @@ subtitle: Hacker/Tinkerer
 ### SKILLS
 
 #### LANGUAGES I CODE IN
-| Icon | Name |
-| --- | --- |
-|![](https://skillicons.dev/icons?i=flutter) | Flutter |
-|![](https://skillicons.dev/icons?i=dart) | Dart |
+
+<table>
+    <tr>
+        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
+        <td>Flutter</td>
+    </tr>
+    <tr>
+        <td><img src="https://skillicons.dev/icons?i=dart"></td>
+        <td>Dart</td>
+    </tr>
+</table>
 
 ![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
 
