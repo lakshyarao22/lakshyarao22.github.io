@@ -12,6 +12,8 @@ subtitle: Hacker/Tinkerer
 ### SKILLS
 
 #### LANGUAGES I CODE IN
+|{{ icon }}flutter | Flutter |
+|{{ icon }}dart | Dart |
 
 ![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
 
@@ -43,20 +45,6 @@ An automated face recognition attendance system built on RaspberryPi with python
 **Tatva IoT** - Virtual Analytics <span style="float: right; ">4 months</span>  
 A fullyfleged home automation system which works locally on your network bringing automation in not so luxurious homes. Built on ESP32, Arduino IDE and embedded C.
 
-### EDUCATION
-
-🎓 Ajay Kumar Garg Engineering College <span style="float: right; ">07/2017-06/2022</span>  
-**Electrical And Electronics Engineering**  
-Completed my graduation and cured my curiosity to know more about how electricity works. Further developed in intrest in field of IoT and Computer Science.
-
-🖋️ Kendriya Vidyalaya <span style="float: right; ">04/2015-03-2017</span>  
-**Science with Maths and Biology**  
-Completed my High school and developed an interest in field of science and technology.
-
-✏️ Kendriya Vidyalaya <span style="float: right; ">04/2005-03/2015</span>  
-**Schooling**  
-Just Basic schooling. Not more or less. 😃
-
 ### EXPERIENCE
 
 Security Engineer - **Sify Technologies** <span style="float: right; ">07/2022-Present</span>  
@@ -86,6 +74,20 @@ _Responsible for IoT Development, Flutter Development and UX/UI Designing_
 + Linux
 + AWS
 + Raspberry Pi
+
+### EDUCATION
+
+🎓 Ajay Kumar Garg Engineering College <span style="float: right; ">07/2017-06/2022</span>  
+**Electrical And Electronics Engineering**  
+Completed my graduation and cured my curiosity to know more about how electricity works. Further developed in intrest in field of IoT and Computer Science.
+
+🖋️ Kendriya Vidyalaya <span style="float: right; ">04/2015-03-2017</span>  
+**Science with Maths and Biology**  
+Completed my High school and developed an interest in field of science and technology.
+
+✏️ Kendriya Vidyalaya <span style="float: right; ">04/2005-03/2015</span>  
+**Schooling**  
+Just Basic schooling. Not more or less. 😃
 
 ### RECOGNITION & INTERESTS
 
