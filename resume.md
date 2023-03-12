@@ -16,40 +16,36 @@ subtitle: Hacker/Tinkerer
 <table cellspacing="10px">
     <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td> </td>
         <td>Flutter</td>
     </tr>
     <tr>
     <td> </td>
+    <td> </td>
+    </tr>
         <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td> </td>
         <td>Flutter</td>
     </tr>
     <tr>
     <td> </td>
+    <td> </td>
+    </tr>
         <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td> </td>
         <td>Flutter</td>
     </tr>
     <tr>
     <td> </td>
+    <td> </td>
+    </tr>
         <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td> </td>
         <td>Flutter</td>
     </tr>
     <tr>
     <td> </td>
-        <tr>
-        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td> </td>
-        <td>Flutter</td>
-    </tr>
-    <tr>
     <td> </td>
-    
+    </tr>
 </table>
 
 ![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
