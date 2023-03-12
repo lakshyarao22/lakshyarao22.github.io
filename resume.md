@@ -13,7 +13,7 @@ subtitle: Hacker/Tinkerer
 
 #### LANGUAGES I CODE IN
 
-<table cellspacing="10px">
+<table cellspacing="100px">
     <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
         <td>Flutter</td>
