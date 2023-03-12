@@ -25,26 +25,18 @@ subtitle: Hacker/Tinkerer
         <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
         <td>Flutter</td>
-    </tr>
-    <tr>
-    <td> </td>
-    <td> </td>
-    </tr>
-        <tr>
+        <td> </td>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
         <td>Flutter</td>
-    </tr>
-    <tr>
-    <td> </td>
-    <td> </td>
-    </tr>
-        <tr>
+        <td> </td>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
         <td>Flutter</td>
-    </tr>
-    <tr>
-    <td> </td>
-    <td> </td>
+        <td> </td>
+        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
+        <td>Flutter</td>
+        <td> </td>
+        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
+        <td>Flutter</td>
     </tr>
 </table>
 
