@@ -12,33 +12,23 @@ subtitle: Hacker/Tinkerer
 ### SKILLS
 
 #### LANGUAGES I CODE IN
-<!-- 
-<table cellspacing="100px">
+ 
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
     <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td>Flutter</td>
+        <td><img src="https://skillicons.dev/icons?i=dart"></td>
+        <td><img src="https://skillicons.dev/icons?i=c"></td>
+        <td><img src="https://skillicons.dev/icons?i=py"></td>
+        <td><img src="https://skillicons.dev/icons?i=bash"></td>
     </tr>
     <tr>
-    <td> </td>
-    <td> </td>
+        <td>Flutter</td>
+        <td>Dart</td>
+        <td>C</td>
+        <td>Python</td>
+        <td>Bash</td>
     </tr>
-        <tr>
-        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td>Flutter</td>
-        <td> </td>
-        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td>Flutter</td>
-        <td> </td>
-        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td>Flutter</td>
-        <td> </td>
-        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td>Flutter</td>
-        <td> </td>
-        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td>Flutter</td>
-    </tr>
-</table> -->
+</table>
 
 ![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
 
