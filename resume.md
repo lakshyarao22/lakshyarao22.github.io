@@ -12,25 +12,18 @@ subtitle: Hacker/Tinkerer
 ### SKILLS
 
 #### LANGUAGES I CODE IN
- 
-<table cellspacing="10">
-    <tr>
-        <td><img src="https://skillicons.dev/icons?i=flutter"></td>
-        <td><img src="https://skillicons.dev/icons?i=dart"></td>
-        <td><img src="https://skillicons.dev/icons?i=c"></td>
-        <td><img src="https://skillicons.dev/icons?i=py"></td>
-        <td><img src="https://skillicons.dev/icons?i=bash"></td>
-    </tr>
-    <tr>
-        <td>Flutter</td>
-        <td>Dart</td>
-        <td>C</td>
-        <td>Python</td>
-        <td>Bash</td>
-    </tr>
-</table>
+![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=3776AB&style=for-the-badge)
+![](https://img.shields.io/badge/Bash-black?logo=GNU%20Bash&logoColor=4EAA25&style=for-the-badge)
+![](https://img.shields.io/badge/HTML-black?logo=HTML5&logoColor=E34F26&style=for-the-badge)
+![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/MarkDown-black?logo=Markdown&logoColor=white&style=for-the-badge)
 
-![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
+
+
+![](https://skillicons.dev/icons?i=md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
 
 #### DEVELOPMENT TOOLS
 
