@@ -59,11 +59,40 @@ _Responsible for Threat Analysis, Log Investigation and Vulnerability Assisment.
 <strong>Technologies used</strong>
 
 + RSA Netwitness SIEM
+    + Threat Investigation
+    + Rule Buliding
+    + Reporting
+    + CLI Management
+    + Dashboards
 + ArcSight SIEM
+    + Threat Investigation
+    + Rule Building
+    + Reporting
+    + Filters, Active Channels
+    + Query, Trends and Reports
+    + Integration
+    + CLI Managenent
 + Cisco NBAD
+    + Policy buliding
+    + Management
+    + Threat Investigation
 + Radware WAF
+    + Onboarding
+    + Threat Investigation
+    + Upgradation
+    + Policies
+    + Backup
+    + Appwall Management
+    + Reporting
 + Tenable Nessus
+    + Policy
+    + Vulnerability Assesment
+    + Upgradation
+    + CLI Management
+    + User Management
 + ZScaler Deception
+    + Policy
+    + Monitoring
 + Kali Linux
 
 Junior Developer - **Virtual Analytics** <span style="float: right; ">10/2020-10/2021</span>  
