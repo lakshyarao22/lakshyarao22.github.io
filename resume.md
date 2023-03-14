@@ -12,7 +12,7 @@ subtitle: Hacker/Tinkerer
 ### SKILLS
 
 #### LANGUAGES I CODE IN
-
+<!-- 
 <table cellspacing="100px">
     <tr>
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
@@ -38,7 +38,7 @@ subtitle: Hacker/Tinkerer
         <td><img src="https://skillicons.dev/icons?i=flutter"></td>
         <td>Flutter</td>
     </tr>
-</table>
+</table> -->
 
 ![](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5)
 
