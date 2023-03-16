@@ -47,30 +47,30 @@ Next we have to change bridge to NAT
 
 1. Select NIC in Virtmanager Configuration
 
-![](lakshyarao22/theinquisitive.xyz/assets/Select_NIC.png)
+![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Select_NIC.png)
 
 2. Select bridge device to NAT
 
-![](lakshyarao22/theinquisitive.xyz/assets/Select_NAT.png)
+![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Select_NAT.png)
 
 3. Do the same for all your Devices
 
-![](lakshyarao22/theinquisitive.xyz/assets/Do_the_same_for_all_devices.png)
+![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Do_the_same_for_all_devices.png)
 
 
 ## Booting up NICs before your OS
 
 1. Go to boot options in virtmanager settings.
 
-![](lakshyarao22/theinquisitive.xyz/assets/Go_to_boot_options.png)
+![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Go_to_boot_options.png)
 
 2. Enable NICs to boot up
 
-![](lakshyarao22/theinquisitive.xyz/assets/Enable_NICs_to_bootup.png)
+![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Enable_NICs_to_bootup.png)
 
 3. Change Boot sequence and prioritize NIC using arrow keys.
 
-![](lakshyarao22/theinquisitive.xyz/assets/Boot_sequence.png)
+![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Boot_sequence.png)
 
 ## Bootup
 
