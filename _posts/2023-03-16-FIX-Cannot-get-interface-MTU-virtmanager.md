@@ -15,7 +15,7 @@ Firstly we have to install openvswitch
 
 ### Ubuntu/Debian
 
-```bash
+```sh
 ## Installation
 sudo apt install openvswitch-switch
 
@@ -30,7 +30,7 @@ sudo systemctl status openvswitch-switch.service
 ### Arch/Manjaro
 
 
-```bash
+```sh
 ## Installation
 sudo pacman -S openvswitch
 
@@ -45,30 +45,30 @@ sudo systemctl status ovs-vswitchd.service
 
 Next we have to change bridge to NAT
 
-1. Select NIC in Virtmanager Configuration
+- Select NIC in Virtmanager Configuration
 
 ![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Select_NIC.png)
 
-2. Select bridge device to NAT
+- Select bridge device to NAT
 
 ![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Select_NAT.png)
 
-3. Do the same for all your Devices
+- Do the same for all your Devices
 
 ![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Do_the_same_for_all_devices.png)
 
 
 ## Booting up NICs before your OS
 
-1. Go to boot options in virtmanager settings.
+- Go to boot options in virtmanager settings.
 
 ![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Go_to_boot_options.png)
 
-2. Enable NICs to boot up
+- Enable NICs to boot up
 
 ![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Enable_NICs_to_bootup.png)
 
-3. Change Boot sequence and prioritize NIC using arrow keys.
+- Change Boot sequence and prioritize NIC using arrow keys.
 
 ![](https://raw.githubusercontent.com/lakshyarao22/theinquisitive.xyz/main/assets/Boot_sequence.png)
 
